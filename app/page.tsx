@@ -8,7 +8,7 @@ export default function Home() {
           Seshibe Legacy
         </h1>
         <p className="text-xl md:text-2xl text-gray-700 mb-6 font-medium">
-          Building Powerful Digital Foundations for Ambitious Businesses.
+          Modern Digital Solutions for Small Businesses.
         </p>
         <p className="max-w-2xl mx-auto text-gray-600 mb-10 leading-relaxed">
           I help ambitious small businesses establish a strong online presence through strategic website design, brand identity development, and smart digital growth solutions.
